@@ -1,7 +1,7 @@
 # Analyzing-Global-Climate-Change-Data-for-Policy-Insights
 This repository combines data visualization and exploratory data analysis (EDA) to study global climate change and energy usage. It includes:
-1.Tableau Dashboard – Interactive visualizations on temperature rise, CO₂ emissions, and renewable energy adoption.
-2.EDA Notebook – Data cleaning, preprocessing, and exploratory analysis of climate change datasets.
+1. Tableau Dashboard – Interactive visualizations on temperature rise, CO₂ emissions, and renewable energy adoption.
+2. EDA Notebook – Data cleaning, preprocessing, and exploratory analysis of climate change datasets.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dataset Details
