@@ -5,7 +5,7 @@ This repository combines data visualization and exploratory data analysis (EDA) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dataset Details
-File: climate_change_dataset_cleaned.csv
+File: climate_change_dataset.csv
 Size: 1000 rows × 10 columns
 
 Features included:
