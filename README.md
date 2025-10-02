@@ -21,6 +21,7 @@ Extreme Weather Events – Number of recorded extreme weather events
 Forest Area (%) – Forest cover as a percentage of land
 Country – Country name
 This dataset enables analysis of climate change indicators and their relationship to population, renewable energy, and CO2 emissions.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 My Work
@@ -29,6 +30,7 @@ My Work
 -Applied data cleaning, transformation, and visualization techniques using Pandas, Matplotlib, Numpy and Seaborn.
 -Generated insights into the relationship between climate indicators (temperature, CO₂, rainfall, etc.) and renewable energy adoption.
 -Developed policy recommendations based on insights, focusing on renewable energy adoption, emission control, and sustainable resource management.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Run Instructions
 1. Running the EDA Notebook
